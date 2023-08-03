@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 557c24f54f930464a82ed4c82a79c627, type: 3}
+  m_Name: CubeItemDataSo 3
+  m_EditorClassIdentifier: 
+  fallSpeed: 6
+  fallEase:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 1
+      outSlope: 1
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 1
+      outSlope: 1
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  shuffleSpeed: 2
+  shuffleEase:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: -0.44709343
+      outSlope: -0.44709343
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.4323009
+    - serializedVersion: 3
+      time: 0.3684021
+      value: -0.23666993
+      inSlope: 0.7073372
+      outSlope: 0.7073372
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.43692297
+    - serializedVersion: 3
+      time: 0.6921444
+      value: 1.0693196
+      inSlope: 0.113772154
+      outSlope: 0.113772154
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.6025204
+      outWeight: 0.81829137
+    - serializedVersion: 3
+      time: 0.8851951
+      value: 0.9820769
+      inSlope: -0.033311922
+      outSlope: -0.033311922
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 1
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: -0.035301067
+      outSlope: -0.035301067
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 1
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  cubeUiPropertyByType:
+    keyData: 000000000100000002000000
+    valueData:
+    - spriteLevelProperties:
+      - minMergeCount: 10
+        sprite: {fileID: 21300000, guid: f970f1258b4f7ff43a80062592c8e7ee, type: 3}
+      - minMergeCount: 9
+        sprite: {fileID: 21300000, guid: 6607a6a4ee8ad47429913a27af5107ee, type: 3}
+      - minMergeCount: 5
+        sprite: {fileID: 21300000, guid: 8571071f090d2d0459991183d9607227, type: 3}
+      - minMergeCount: 0
+        sprite: {fileID: 21300000, guid: f988851188a8e15478f87c24aedce84e, type: 3}
+      blastParticleMaterial: {fileID: 2100000, guid: 9bf6cbdd81c71134f9f2bca9a8f038cd,
+        type: 2}
+    - spriteLevelProperties:
+      - minMergeCount: 10
+        sprite: {fileID: 21300000, guid: ead0466abe74ead45bfc34ce9a35c6b7, type: 3}
+      - minMergeCount: 9
+        sprite: {fileID: 21300000, guid: d3d6ab5bfe7678945bccc8744fb5bcbb, type: 3}
+      - minMergeCount: 5
+        sprite: {fileID: 21300000, guid: 6f4ed78d38dc04a4ab677dbf0db18838, type: 3}
+      - minMergeCount: 0
+        sprite: {fileID: 21300000, guid: d0dfb556709fe1248b7b7d2c58d95642, type: 3}
+      blastParticleMaterial: {fileID: 2100000, guid: 335876835653f0442b360593fe3cebf2,
+        type: 2}
+    - spriteLevelProperties:
+      - minMergeCount: 10
+        sprite: {fileID: 21300000, guid: 6265d2e044bff674e9b6ac68fd536d00, type: 3}
+      - minMergeCount: 9
+        sprite: {fileID: 21300000, guid: 86b5e49b2d3e3e9449c21f0a7cf41458, type: 3}
+      - minMergeCount: 5
+        sprite: {fileID: 21300000, guid: 172074cfeb3dd114fbcca7369fdecd71, type: 3}
+      - minMergeCount: 0
+        sprite: {fileID: 21300000, guid: 9f551900f8894704dbdea0aed9512dfb, type: 3}
+      blastParticleMaterial: {fileID: 2100000, guid: c4799b3f389bdd244997bf8ddea0f8e2,
+        type: 2}

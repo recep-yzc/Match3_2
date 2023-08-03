@@ -1,0 +1,564 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!181963792 &2655988077585873504
+Preset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CubeDataSo
+  m_TargetType:
+    m_NativeTypeID: 114
+    m_ManagedTypePPtr: {fileID: 11500000, guid: 557c24f54f930464a82ed4c82a79c627,
+      type: 3}
+    m_ManagedTypeFallback: 
+  m_Properties:
+  - target: {fileID: 0}
+    propertyPath: m_Enabled
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorHideFlags
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorClassIdentifier
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fallSpeed
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fallEase.m_Curve.Array.size
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fallEase.m_Curve.Array.data[0].time
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fallEase.m_Curve.Array.data[0].value
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fallEase.m_Curve.Array.data[0].inSlope
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fallEase.m_Curve.Array.data[0].outSlope
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fallEase.m_Curve.Array.data[0].tangentMode
+    value: 34
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fallEase.m_Curve.Array.data[0].weightedMode
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fallEase.m_Curve.Array.data[0].inWeight
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fallEase.m_Curve.Array.data[0].outWeight
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fallEase.m_Curve.Array.data[1].time
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fallEase.m_Curve.Array.data[1].value
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fallEase.m_Curve.Array.data[1].inSlope
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fallEase.m_Curve.Array.data[1].outSlope
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fallEase.m_Curve.Array.data[1].tangentMode
+    value: 34
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fallEase.m_Curve.Array.data[1].weightedMode
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fallEase.m_Curve.Array.data[1].inWeight
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fallEase.m_Curve.Array.data[1].outWeight
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fallEase.m_PreInfinity
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fallEase.m_PostInfinity
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fallEase.m_RotationOrder
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: shuffleSpeed
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: shuffleEase.m_Curve.Array.size
+    value: 5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: shuffleEase.m_Curve.Array.data[0].time
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: shuffleEase.m_Curve.Array.data[0].value
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: shuffleEase.m_Curve.Array.data[0].inSlope
+    value: -0.44709343
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: shuffleEase.m_Curve.Array.data[0].outSlope
+    value: -0.44709343
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: shuffleEase.m_Curve.Array.data[0].tangentMode
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: shuffleEase.m_Curve.Array.data[0].weightedMode
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: shuffleEase.m_Curve.Array.data[0].inWeight
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: shuffleEase.m_Curve.Array.data[0].outWeight
+    value: 0.4323009
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: shuffleEase.m_Curve.Array.data[1].time
+    value: 0.3684021
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: shuffleEase.m_Curve.Array.data[1].value
+    value: -0.23666993
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: shuffleEase.m_Curve.Array.data[1].inSlope
+    value: 0.7073372
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: shuffleEase.m_Curve.Array.data[1].outSlope
+    value: 0.7073372
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: shuffleEase.m_Curve.Array.data[1].tangentMode
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: shuffleEase.m_Curve.Array.data[1].weightedMode
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: shuffleEase.m_Curve.Array.data[1].inWeight
+    value: 0.33333334
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: shuffleEase.m_Curve.Array.data[1].outWeight
+    value: 0.43692297
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: shuffleEase.m_Curve.Array.data[2].time
+    value: 0.6921444
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: shuffleEase.m_Curve.Array.data[2].value
+    value: 1.0693196
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: shuffleEase.m_Curve.Array.data[2].inSlope
+    value: 0.113772154
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: shuffleEase.m_Curve.Array.data[2].outSlope
+    value: 0.113772154
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: shuffleEase.m_Curve.Array.data[2].tangentMode
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: shuffleEase.m_Curve.Array.data[2].weightedMode
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: shuffleEase.m_Curve.Array.data[2].inWeight
+    value: 0.6025204
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: shuffleEase.m_Curve.Array.data[2].outWeight
+    value: 0.81829137
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: shuffleEase.m_Curve.Array.data[3].time
+    value: 0.8851951
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: shuffleEase.m_Curve.Array.data[3].value
+    value: 0.9820769
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: shuffleEase.m_Curve.Array.data[3].inSlope
+    value: -0.033311922
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: shuffleEase.m_Curve.Array.data[3].outSlope
+    value: -0.033311922
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: shuffleEase.m_Curve.Array.data[3].tangentMode
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: shuffleEase.m_Curve.Array.data[3].weightedMode
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: shuffleEase.m_Curve.Array.data[3].inWeight
+    value: 0.33333334
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: shuffleEase.m_Curve.Array.data[3].outWeight
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: shuffleEase.m_Curve.Array.data[4].time
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: shuffleEase.m_Curve.Array.data[4].value
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: shuffleEase.m_Curve.Array.data[4].inSlope
+    value: -0.035301067
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: shuffleEase.m_Curve.Array.data[4].outSlope
+    value: -0.035301067
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: shuffleEase.m_Curve.Array.data[4].tangentMode
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: shuffleEase.m_Curve.Array.data[4].weightedMode
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: shuffleEase.m_Curve.Array.data[4].inWeight
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: shuffleEase.m_Curve.Array.data[4].outWeight
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: shuffleEase.m_PreInfinity
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: shuffleEase.m_PostInfinity
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: shuffleEase.m_RotationOrder
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.keyData.Array.size
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.keyData.Array.data[0]
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.keyData.Array.data[1]
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.keyData.Array.data[2]
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.keyData.Array.data[3]
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.keyData.Array.data[4]
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.keyData.Array.data[5]
+    value: 5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.valueData.Array.size
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.valueData.Array.data[0].spriteLevelProperties.Array.size
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.valueData.Array.data[0].spriteLevelProperties.Array.data[0].minMergeCount
+    value: 10
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.valueData.Array.data[0].spriteLevelProperties.Array.data[0].sprite
+    value: 
+    objectReference: {fileID: 21300000, guid: f970f1258b4f7ff43a80062592c8e7ee, type: 3}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.valueData.Array.data[0].spriteLevelProperties.Array.data[1].minMergeCount
+    value: 9
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.valueData.Array.data[0].spriteLevelProperties.Array.data[1].sprite
+    value: 
+    objectReference: {fileID: 21300000, guid: 6607a6a4ee8ad47429913a27af5107ee, type: 3}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.valueData.Array.data[0].spriteLevelProperties.Array.data[2].minMergeCount
+    value: 5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.valueData.Array.data[0].spriteLevelProperties.Array.data[2].sprite
+    value: 
+    objectReference: {fileID: 21300000, guid: 8571071f090d2d0459991183d9607227, type: 3}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.valueData.Array.data[0].spriteLevelProperties.Array.data[3].minMergeCount
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.valueData.Array.data[0].spriteLevelProperties.Array.data[3].sprite
+    value: 
+    objectReference: {fileID: 21300000, guid: f988851188a8e15478f87c24aedce84e, type: 3}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.valueData.Array.data[0].blastParticleMaterial
+    value: 
+    objectReference: {fileID: 2100000, guid: 9bf6cbdd81c71134f9f2bca9a8f038cd, type: 2}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.valueData.Array.data[1].spriteLevelProperties.Array.size
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.valueData.Array.data[1].spriteLevelProperties.Array.data[0].minMergeCount
+    value: 10
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.valueData.Array.data[1].spriteLevelProperties.Array.data[0].sprite
+    value: 
+    objectReference: {fileID: 21300000, guid: ead0466abe74ead45bfc34ce9a35c6b7, type: 3}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.valueData.Array.data[1].spriteLevelProperties.Array.data[1].minMergeCount
+    value: 9
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.valueData.Array.data[1].spriteLevelProperties.Array.data[1].sprite
+    value: 
+    objectReference: {fileID: 21300000, guid: d3d6ab5bfe7678945bccc8744fb5bcbb, type: 3}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.valueData.Array.data[1].spriteLevelProperties.Array.data[2].minMergeCount
+    value: 5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.valueData.Array.data[1].spriteLevelProperties.Array.data[2].sprite
+    value: 
+    objectReference: {fileID: 21300000, guid: 6f4ed78d38dc04a4ab677dbf0db18838, type: 3}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.valueData.Array.data[1].spriteLevelProperties.Array.data[3].minMergeCount
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.valueData.Array.data[1].spriteLevelProperties.Array.data[3].sprite
+    value: 
+    objectReference: {fileID: 21300000, guid: d0dfb556709fe1248b7b7d2c58d95642, type: 3}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.valueData.Array.data[1].blastParticleMaterial
+    value: 
+    objectReference: {fileID: 2100000, guid: 335876835653f0442b360593fe3cebf2, type: 2}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.valueData.Array.data[2].spriteLevelProperties.Array.size
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.valueData.Array.data[2].spriteLevelProperties.Array.data[0].minMergeCount
+    value: 10
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.valueData.Array.data[2].spriteLevelProperties.Array.data[0].sprite
+    value: 
+    objectReference: {fileID: 21300000, guid: 6265d2e044bff674e9b6ac68fd536d00, type: 3}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.valueData.Array.data[2].spriteLevelProperties.Array.data[1].minMergeCount
+    value: 9
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.valueData.Array.data[2].spriteLevelProperties.Array.data[1].sprite
+    value: 
+    objectReference: {fileID: 21300000, guid: 86b5e49b2d3e3e9449c21f0a7cf41458, type: 3}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.valueData.Array.data[2].spriteLevelProperties.Array.data[2].minMergeCount
+    value: 5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.valueData.Array.data[2].spriteLevelProperties.Array.data[2].sprite
+    value: 
+    objectReference: {fileID: 21300000, guid: 172074cfeb3dd114fbcca7369fdecd71, type: 3}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.valueData.Array.data[2].spriteLevelProperties.Array.data[3].minMergeCount
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.valueData.Array.data[2].spriteLevelProperties.Array.data[3].sprite
+    value: 
+    objectReference: {fileID: 21300000, guid: 9f551900f8894704dbdea0aed9512dfb, type: 3}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.valueData.Array.data[2].blastParticleMaterial
+    value: 
+    objectReference: {fileID: 2100000, guid: c4799b3f389bdd244997bf8ddea0f8e2, type: 2}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.valueData.Array.data[3].spriteLevelProperties.Array.size
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.valueData.Array.data[3].spriteLevelProperties.Array.data[0].minMergeCount
+    value: 10
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.valueData.Array.data[3].spriteLevelProperties.Array.data[0].sprite
+    value: 
+    objectReference: {fileID: 21300000, guid: 695f0e3bc4a0b9c428fb9dd53a98bcd2, type: 3}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.valueData.Array.data[3].spriteLevelProperties.Array.data[1].minMergeCount
+    value: 9
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.valueData.Array.data[3].spriteLevelProperties.Array.data[1].sprite
+    value: 
+    objectReference: {fileID: 21300000, guid: d60c1a5795c81b7478ada1fec94eb77b, type: 3}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.valueData.Array.data[3].spriteLevelProperties.Array.data[2].minMergeCount
+    value: 5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.valueData.Array.data[3].spriteLevelProperties.Array.data[2].sprite
+    value: 
+    objectReference: {fileID: 21300000, guid: 636d5b98541a6df4ea22fbe843fa4273, type: 3}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.valueData.Array.data[3].spriteLevelProperties.Array.data[3].minMergeCount
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.valueData.Array.data[3].spriteLevelProperties.Array.data[3].sprite
+    value: 
+    objectReference: {fileID: 21300000, guid: ec7497c9d878e964d9949aad9f677d40, type: 3}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.valueData.Array.data[3].blastParticleMaterial
+    value: 
+    objectReference: {fileID: 2100000, guid: 9c3f4dd2f98bce94f87d555e283c04d0, type: 2}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.valueData.Array.data[4].spriteLevelProperties.Array.size
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.valueData.Array.data[4].spriteLevelProperties.Array.data[0].minMergeCount
+    value: 10
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.valueData.Array.data[4].spriteLevelProperties.Array.data[0].sprite
+    value: 
+    objectReference: {fileID: 21300000, guid: 58be1c3e51a9097498d41a5f1ffb1af8, type: 3}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.valueData.Array.data[4].spriteLevelProperties.Array.data[1].minMergeCount
+    value: 9
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.valueData.Array.data[4].spriteLevelProperties.Array.data[1].sprite
+    value: 
+    objectReference: {fileID: 21300000, guid: 1ad9019ac7a35ae44ae1a191d5953fa1, type: 3}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.valueData.Array.data[4].spriteLevelProperties.Array.data[2].minMergeCount
+    value: 5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.valueData.Array.data[4].spriteLevelProperties.Array.data[2].sprite
+    value: 
+    objectReference: {fileID: 21300000, guid: bdbe47dcfe9e63946aa8715c7b785335, type: 3}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.valueData.Array.data[4].spriteLevelProperties.Array.data[3].minMergeCount
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.valueData.Array.data[4].spriteLevelProperties.Array.data[3].sprite
+    value: 
+    objectReference: {fileID: 21300000, guid: f50829e8efd93f44c88830877a794edc, type: 3}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.valueData.Array.data[4].blastParticleMaterial
+    value: 
+    objectReference: {fileID: 2100000, guid: a9871b8c3889c844c82a5a01b0a58a89, type: 2}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.valueData.Array.data[5].spriteLevelProperties.Array.size
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.valueData.Array.data[5].spriteLevelProperties.Array.data[0].minMergeCount
+    value: 10
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.valueData.Array.data[5].spriteLevelProperties.Array.data[0].sprite
+    value: 
+    objectReference: {fileID: 21300000, guid: dd5b0fe7862d03244921f42fa8fa83de, type: 3}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.valueData.Array.data[5].spriteLevelProperties.Array.data[1].minMergeCount
+    value: 9
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.valueData.Array.data[5].spriteLevelProperties.Array.data[1].sprite
+    value: 
+    objectReference: {fileID: 21300000, guid: 69e7966bae6fa9e42aa4f508d2f35051, type: 3}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.valueData.Array.data[5].spriteLevelProperties.Array.data[2].minMergeCount
+    value: 5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.valueData.Array.data[5].spriteLevelProperties.Array.data[2].sprite
+    value: 
+    objectReference: {fileID: 21300000, guid: d07875feaf1a8814aa5e922308abba4f, type: 3}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.valueData.Array.data[5].spriteLevelProperties.Array.data[3].minMergeCount
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.valueData.Array.data[5].spriteLevelProperties.Array.data[3].sprite
+    value: 
+    objectReference: {fileID: 21300000, guid: bf6ca05b7f0c1764a97c216d12bfa4cf, type: 3}
+  - target: {fileID: 0}
+    propertyPath: cubeUiPropertyByType.valueData.Array.data[5].blastParticleMaterial
+    value: 
+    objectReference: {fileID: 2100000, guid: e7f1fc11ec750a34fb88385a937af530, type: 2}
+  m_ExcludedProperties: []
