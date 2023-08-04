@@ -1,6 +1,5 @@
 using DG.Tweening;
 using Game.Scripts.Cube.Interfaces;
-using Unity.Mathematics;
 using UnityEngine;
 
 namespace Game.Scripts.Cube.Actors
@@ -82,7 +81,7 @@ namespace Game.Scripts.Cube.Actors
             _clickShakeTween.Kill();
             _clickShakeTweenComplete.Kill();
             
-            holder.localRotation = quaternion.identity;
+            holder.localRotation = Quaternion.identity;
         }
 
         #endregion
